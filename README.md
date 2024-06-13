@@ -10,8 +10,8 @@ Yêu cầu: Sinh viên viết chương trình (giao diện đồ họa) bán vé
 	- Cho phép xem tình trạng chỗ ngồi (trống/đã đặt) hiện tại 
 	- Cho phép nhiều ứng dụng client kết nối vào (cùng lúc) và đặt vé 
    + Chương trình client (giao diện đồ họa):
-	- Kết nối tới server 
-	- Lấy các dữ liệu từ server và hiển thị cho người dùng:
+	- Kết nối tới server
+        - Lấy các dữ liệu từ server và hiển thị cho người dùng:
 		- Các suất của sự kiện 
 		- Các khu/khán đài, tình trạng các chổ ngồi (trống/đã đặt) 
 	- Cho người dùng đặt vé các chổ ngồi còn trống (các thông tin về người đặt vé cần được lưu trữ: Họ tên, số điện thoại, vị trí) 
@@ -25,5 +25,6 @@ Yêu cầu: Sinh viên viết chương trình (giao diện đồ họa) bán vé
 # Hướng dẫn sử dụng:
 [Hướng dẫn sử dụng.docx](https://github.com/user-attachments/files/15812583/H.ng.d.n.s.d.ng.docx)
 
-
+# Link Demo:
+https://www.youtube.com/watch?v=gZIFcgPoQ_c&t=85s 
 
